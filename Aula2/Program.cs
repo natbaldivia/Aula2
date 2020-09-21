@@ -27,7 +27,7 @@ namespace Aula2
 			int numeroc = int.Parse(Console.ReadLine());
 			if (numeroa > numerob)
 			{
-				Console.WriteLine("O maior é " + numeroa);
+				Console.WriteLine("O maior é o" + numeroa);
 			}
 			else
 			{
